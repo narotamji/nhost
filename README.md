@@ -1,0 +1,2 @@
+# nhost
+hosting site template
